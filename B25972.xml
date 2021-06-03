@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and travels of our blessed Lord and Saviour Jesus Christ: with a description of the years of his ministry: as also a description of the wise men of the east, and likewise of the star that guided them; with a just account of the travels of the Virgin Mary.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25972</idno><idno type="EEBO-CITATION">99885363</idno>
+  <idno type="VID">201285</idno>
+  <idno type="EEBO-PROQUEST">2240887020</idno>
+  
+            <idno type="STC">Wing L2021</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[13]</idno>
+            <idno type="STC">ESTC R222945</idno>
+            <idno type="PROQUEST">ocm99885363</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885363e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25972)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201285)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and travels of our blessed Lord and Saviour Jesus Christ: with a description of the years of his ministry: as also a description of the wise men of the east, and likewise of the star that guided them; with a just account of the travels of the Virgin Mary.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby; at the Golden-Ball, near the Hospital-Gate, in West-smith-field,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Printed in three columns.</note>
+                  <note>With Biblical citations in marginal notes.</note>
+                  <note>Imperfect: torn at edge with loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Nativity --  Early works to 1800.</term>
+               <term type="personal_name">Mary, --  Blessed Virgin, Saint --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201285:1"/>
+            <head>The Life and Travels of our Blessed Lord and Saviour JESUS CHRIST: With a Description of the Years of his Ministry: As also a Description of the Wise Men of the East, and likewise of the Star that guided them; <hi>With a Just Account of the Travels of the Virgin</hi> MARY.</head>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>Wise Men traveling</figDesc>
+                  </figure>The Travels of the Wise Men of the East, which came to <hi>Bethlehem</hi> to see <hi>Jesus.</hi>
+               </head>
+               <p>THe <hi>Magi</hi> were certain Wise Men of <hi>Persia,</hi> so called from <hi>Meditation,</hi> being derived of <hi>Hagah,</hi> that is, He hath Meditated and taken in the 3d. Conjugation; it signifies to find or search out a thing, they being such as gave themselves to the Knowledge of hard things, and to find out the Secrets and Mysteries of Na<g ref="char:EOLhyphen"/>ture: But according to <hi>Varinus,</hi> they were not onely Philosophers, but Priests also. <hi>Strabo</hi> saith that the <hi>Magi</hi> were such among the <hi>Persians,</hi> as those whom the <hi>Indians</hi> call <hi>Gimnosophers</hi> and <hi>Academians,</hi> the <hi>Babylonians, Chaldeans,</hi> and the <hi>Hebrews,</hi> Prophets or Priests which taught the People Divine Knowledge; and when the Ten Tribes were carried into Captivity by <hi>Salmanaser</hi> Emperour of the <hi>Assyrians,</hi> (into <hi>Assyria, Media,</hi> and <hi>Persia,</hi>) there is no question but they took with them into the East, the Holy Books and Vo<g ref="char:EOLhyphen"/>lums of the Law and of the Prophets, whereby without doubt many of the people and Philoso<g ref="char:EOLhyphen"/>phers of the East came to have a taste of the true Knowledge and Worship of God. Also the Pro<g ref="char:EOLhyphen"/>phet <hi>Daniel</hi> was brought up in all the Arts of the <hi>Chaldeans,</hi> whose Writings and Prophecies were not only written and published amongst the <hi>Ba<g ref="char:EOLhyphen"/>bylonians,</hi> but also had in great account and esti<g ref="char:EOLhyphen"/>mation amongst the <hi>Magi;</hi> so that they diligent<g ref="char:EOLhyphen"/>ly perusing those Books, came not onely to the Knowledge of God, but also without doubt to the knowledge of our Saviour Jesus Christ, whom they call the <hi>Star of Jacob;</hi> from whence may be concluded, that the Wise Men that came to see our Saviour Christ, were rather of <hi>Susa, Persia,</hi> than of <hi>Zaba</hi> in <hi>Aethiopia;</hi> wherefore these Wise Men came from the Academy of <hi>Susa</hi> in <hi>Persia</hi> to <hi>Jerusalem,</hi> which was 920 miles, saying, <hi>Where is he that is Born King of the</hi> Jews, <hi>for we have seen his Star in the East,</hi>
+                  <note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>atth. 2.</note>
+                  <hi>and are come to Worship him.</hi> This happened in the Month of <hi>January,</hi> in the second Year after the Birth of Christ. For <hi>Herod</hi> in the Seventieth Year of his Age, caused all the Male-Children of the <hi>Bethlemites</hi> of two Years Old and under (according to the time that he was told of the Wise Men) to be put to the Sword.</p>
+               <p>From <hi>Jerusalem</hi> they went to <hi>Bethlehem,</hi> which was 6 miles, where upon the 6th. of <hi>January</hi> they offered three presents which they brought out of <hi>Persia</hi> to our Saviour, <hi>Viz.</hi> Gold, as to a King; Frankincense, as to a Priest; and Myrrh, as to a Mortal Man.<note place="margin">Matth. 2.</note>
+               </p>
+               <p>So let us offer unto Christ our Saviour, the Gold of Faith and Heavenly Doctrine; the Frankin<g ref="char:EOLhyphen"/>cense of earnest Prayers; and the Myrrh of pati<g ref="char:EOLhyphen"/>ence in the midst of Calamity.</p>
+               <p>Afterward the Wise Men (as they had been wandering in a Dream) returned another way to <hi>Susa</hi> in <hi>Persia,</hi> which was 920 miles.</p>
+               <p>
+                  <hi>So the Travels were</hi> 1846 <hi>Miles.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>nativity scene</figDesc>
+                  </figure>Of the <hi>Star</hi> that appeared to the <hi>Wise Men</hi> in the <hi>EAST.</hi>
+               </head>
+               <p>SInce this Star appeared in the lower Re<g ref="char:EOLhyphen"/>gion of the Ayr, (as it is apparent it did) from thence it may be concluded, that it neither was any of the fixed Stars, Pla<g ref="char:EOLhyphen"/>net, or a Comet, because they are commonly seen in the upper Region of the Ayr, but ra<g ref="char:EOLhyphen"/>ther, according to the opinion of some, it was an Angel of God appearing in the form of a bright shining Star, to direct the Wise Men in their way as they went to the Town of <hi>Beth<g ref="char:EOLhyphen"/>lehem;</hi> and so by little and little descending from the sublimite of the Ayr, pointed out unto them the very House where they might find <hi>Mary</hi> the Mother of our Lord, and the Child <hi>Jesus:</hi> Almost after the same manner as the Angel of the Lord in the time of <hi>Moses</hi> appear<g ref="char:EOLhyphen"/>ed to the Children of <hi>Israel,</hi> that is, in the Day like a Cloudy Pillar, and in the Night like a Flaming Fire,<note place="margin">
+                     <hi>Exod.</hi> 13.</note> to direct them the way, Wherefore this Star without doubt was no na<g ref="char:EOLhyphen"/>tural Apparition, which happened in the infe<g ref="char:EOLhyphen"/>riour Region of the Ayr, suddenly Vanishing away, but as I have said, an Angel of the Lord representing the form of a Star; or else as <hi>Chrysostome</hi> saith, a certain miraculous near Star, which according to the opinion of <hi>Augus<g ref="char:EOLhyphen"/>tine,</hi> was govern'd by an Angel of the Lord, and for the greatness of the Body and Variety of the Aspects, was not seen first in the Land of <hi>Judea,</hi> but in <hi>Persia,</hi> a Country in the East where the <hi>Magi</hi> dwelt, and accompanied them thence into <hi>Judea,</hi> and although for a short space it left them in the Journey, yet as soon as they came in the way to <hi>Bethlehem,</hi> it Ap<g ref="char:EOLhyphen"/>peared to them again.<note place="margin">
+                     <hi>Matth.</hi> 2.</note> As <hi>Nicephorus</hi> observes, the Star appeared upon the Day of the Con<g ref="char:EOLhyphen"/>ception of Christ, being the 25th. day of <hi>March,</hi> about which time the Arch-Angel <hi>Gabriel</hi> spoke with the Virgin <hi>Mary:</hi>
+                  <note place="margin">
+                     <hi>Luke</hi> 1.</note> And was seen for a whole Year and Fourty-One Weeks, that is, till the 6th. of <hi>January,</hi> in the beginning of the se<g ref="char:EOLhyphen"/>cond Year after the Nativity of Christ, it wan<g ref="char:EOLhyphen"/>ted Eleven Weeks of Two Years, and therefore <hi>Herod</hi> caused all the Male Children of the <hi>Beth<g ref="char:EOLhyphen"/>lemites</hi> of Two Years old and under, to be slain: wherefore this New Star, did</p>
+               <p>First, Fore-shew the Birth of Christ, that bright shining Star, and Eternal Light of Glo<g ref="char:EOLhyphen"/>ry,<note place="margin">
+                     <hi>Numb.</hi> 22.</note> according to the Prophesie of <hi>Billa.</hi>
+               </p>
+               <p>
+                  <note place="margin">2 <hi>Pet.</hi> 1.</note>Secondly, The Light of Gods Word, and the Gospel.</p>
+               <p>Thirdly, Godly and Faithful Ministers and Teachers, who by their Wise Doctrine, and Godly Life and Conversation, (thereby being an Example to others, that they may follow the same steps) should set before their Auditors, and such as observe their actions, the Way to <hi>CHRIST</hi> and Eternal Happiness.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>nativity scene</figDesc>
+                  </figure>The Travels of the Virgin <hi>Mary.</hi>
+               </head>
+               <p>
+                  <hi>MARY</hi> if it be Derived of <hi>Marah,</hi> signifieth such a Person as is Oppressed with Carefulness and Grief; one that is laid open to all Misery and Calami<g ref="char:EOLhyphen"/>ty, prest with continual Vexation and Mourning.</p>
+               <p>She was born upon the 8th. Day of <hi>September,</hi> 14 <hi>Y.</hi> before the Birth of Christ, and in the Fifteenth of her Age brought forth her only Begotten Son, according to St. <hi>Hierome,</hi> her Fathers Name was <hi>Ehakim,</hi> of the House of <hi>David.</hi>
+               </p>
+               <p>Upon the 25th. Day of <hi>March</hi> in the same year that our Saviour Christ was Born, <hi>Mary</hi> being then 14 <hi>Y.</hi> Old, and the Angel <hi>Gabriel</hi> Declared unto her the Em<g ref="char:EOLhyphen"/>bassie of the Conception of our Lord <hi>Jesus Christ;</hi> a little after, about the beginning of <hi>April Anno</hi> 3667. She went from <hi>Nazareth</hi> in great haste over the Hills to <hi>Jerusalem,</hi>
+                  <note place="margin">Luke 1.</note> 64 Miles, to the House of <hi>Zacharias,</hi> and there Saluted her Couzen <hi>Elizabeth.</hi>
+               </p>
+               <p>From thence she returned back again to <hi>Nazareth,</hi> which was 64 Miles. And when the command came out from <hi>Caesar Augustus, That all the World should be Taxed,</hi> then <hi>Joseph</hi> and <hi>Mary</hi> went from <hi>Nazareth</hi> to <hi>Bethelem,</hi> 72 Miles, and there the time of <hi>Mary's</hi> De<g ref="char:EOLhyphen"/>liverance drew near,<note place="margin">Luke 2.</note> and Loe, <hi>She bare the Son of the Living God, our Lord and Saviour CHRIST.</hi> From <hi>Bethelem Joseph</hi> and <hi>Mary</hi> brought the Child <hi>Jesus</hi> to <hi>Jerusalem,</hi> and presented him in the Temple, which was 6 Miles. And when they had accomplished all things according to the Law, they returned back again to <hi>Na<g ref="char:EOLhyphen"/>zareth,</hi> a Town in <hi>Gallilee,</hi> 64 Miles. From <hi>Nazareth</hi> they went back again to <hi>Bethelem,</hi> 72 Mi. Thither the Wise Men coming out of the <hi>East,</hi> brought the Child <hi>Jesus Gold,</hi>
+                  <note place="margin">Matth. 2.</note>
+                  <hi>Frankincense,</hi> and <hi>Myrrh.</hi> From <hi>Bethelem</hi> (the same night that <hi>Herod</hi> caused all the Infants of two years old and under, to be slain) <hi>Joseph</hi> and <hi>Mary</hi> fled with the Child <hi>Jesus</hi> to <hi>Hermapulis,</hi>
+                  <note place="margin">Matth. 2.</note> a City in <hi>Aegypt,</hi> which was 296 Miles.</p>
+               <p>
+                  <hi>From thence they returned back again with the Child Jesus to <hi>Na<g ref="char:EOLhyphen"/>zareth,</hi> 368 Miles; for they were greatly afraid lest <hi>Archilaus</hi> (w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> succeeded his Father <hi>Herod</hi> in the Government of the <hi>Jew</hi>
+                     <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> seek the Childs Life.</hi>
+                  <note place="margin">Matth. 2.</note>
+                  <hi>From <hi>Nazareth Ioseph</hi> and <hi>Mary</hi> came<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to <hi>Ierusalem,</hi> which was 64 Miles to the Feast of the Pass<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> many Miles back again; which for Ten years continu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 1280 Miles. When Christ was 12 years of Age, and a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of the 13th.</hi>
+                  <note place="margin">Luke 2.</note>
+                  <hi>he went with his Parents from <hi>Nazareth</hi> t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> the Passeover, which was 64 Miles. And when the days<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of the Passeover were accomplish'd, they returned home a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Child Jesus stayed at <hi>Ierusalem,</hi> and his Parents knew it not,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> thought he had been among the Company; wherefore when<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Travelled a days Journey, (that is 20 Miles) they missed the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> After they <hi>searcht</hi> through the company, but could not find him, whe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>fore they returned baek to <hi>Jerusalem,</hi> being 20 Miles, where on the 3d. day after they found him in the Temple, sitting among the <hi>Doctors,</hi> and Disputing with them; so the next three days he returned back a<g ref="char:EOLhyphen"/>gain with his Parents to <hi>Nazareth,</hi> which was 64 Miles, and was obedi<g ref="char:EOLhyphen"/>ent to them.</hi>
+                  <note place="margin">Luke 2.</note>
+                  <hi>After <hi>Joseph</hi> and <hi>Mary</hi> went every year during the life of <hi>Joseph,</hi> up to <hi>Ierusalem</hi> to the Feast of the Passeover, and without all doubt took Jesus along with them; thus they continued for the space of three years, about which time <hi>Ioseph</hi> dyed, Christ being then sixteen years of Age; which 3 years Travel of <hi>Nazareth</hi> to <hi>Jerusalem</hi> &amp; back again, cometh to 384 Miles. From that time forward he continued with his Mother, till he was 31 years of Age, which was the first year of his Ministry, <hi>Mary</hi> his Mother being then 45 years old, was Invited to a Marriage in <hi>Cana,</hi> a City of <hi>Gallilee,</hi> which stood 8 m. from <hi>Galli<g ref="char:EOLhyphen"/>lee</hi> towards the <hi>North-west.</hi>
+                  </hi>
+                  <note place="margin">John 2.</note>
+                  <hi>Here our Saviour Christ wrought his first Miracle, by changing water into Wine. From <hi>Cana</hi> in <hi>Gallilee,</hi> she went with our Saviour to <hi>Capernaum,</hi> a City of <hi>Gallilee,</hi> a little before the Feast of Paschal-Lamb, which was 20 mile. From <hi>Capernaum</hi> she returned back to <hi>Nazareth,</hi> which was accounted 12 miles. In the 32d. year of the age of our Saviour Christ, which was the second year of his Ministry,</hi>
+                  <note place="margin">Matth. 2.</note>
+                  <hi>Mary <hi>went from <hi>Nazareth</hi> back again to <hi>Capernaum,</hi> where our Saviour Christ cast forth a Devil, which was 12 Mi. From thence she return'd back again to <hi>Nazareth,</hi> which was 12 Miles, for in this Town she dwelt, whilst Jesus travelled from place to place, Teaching and preaching the word of God.</hi>
+                  </hi>
+                  <note place="margin">Mark 6.</note>
+                  <hi>And although she oftentimes went from <hi>Nazareth</hi> with him to many places, continuing still in his company; yet then especially, when he was to sustain the Wrath of God, and punishment for the Sin of Man, which was in the 34th. year of his age, in which year she would not forsake him till his death; for she went from <hi>Gallilee</hi> to <hi>Ierusalem</hi> with him, which was 64 Miles, a great jour<g ref="char:EOLhyphen"/>ney for one of her age, (being then 48 years old;) and when our Sa<g ref="char:EOLhyphen"/>viour was Crucified, she stood close by the Cross with a heavy &amp; pen<g ref="char:EOLhyphen"/>sive countenance, bewailing the death of her Son; then was the Pro<g ref="char:EOLhyphen"/>phesie of Old <hi>Simeon</hi> accomplish'd: <hi>And a Sword shall pass through thy Soul.</hi>
+                  </hi>
+                  <note place="margin">Luke 2.</note>
+                  <hi>But after by his Glorious Resurrection and Ascension, she was revived and comforted: from the passion of Christ, to the death of the blessed Virgin <hi>Mary,</hi> was 12 years; all which time she lived with John the <hi>Evangelist</hi> in <hi>Jerusalem,</hi> and then being 59 years of age dyed, and was Buried (according to the opinion of <hi>Nicephorus</hi> and others) in the Garden called <hi>Gethsonene. So all the Travels of the</hi> Virgin Mary <hi>was,</hi> 3506 Miles.</hi>
+               </p>
+            </div>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> P. Brooksby; <hi>at the</hi> Golden-Ball, <hi>near the</hi> Hospital-Gate, <hi>in</hi> West-smith-field.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
